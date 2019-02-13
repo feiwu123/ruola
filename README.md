@@ -5,3 +5,4 @@
 
 
 Creating a new branch DEV is quick and simple.
+Creating a second branch DEV is quick and simple.
